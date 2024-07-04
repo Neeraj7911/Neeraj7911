@@ -1,4 +1,11 @@
-Hi there
+## 👋 Hi there! I'm Neeraj, a passionate Full-Stack Web Developer with a knack for creating dynamic and responsive web applications. Here's a little about me:
+
+🔭 I’m currently working on **React Project**
+
+🌱 I'm always learning and currently enhancing my skills in **Web development and Data Structures and Algorithm**
+
+💻 I enjoy working with technologies like React, Node.js, Express, MongoDB, and various others.
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kumarneeraj791) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neeraj791) 
 
