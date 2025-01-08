@@ -1,27 +1,111 @@
-## 👋 Hi there! I'm Neeraj, a passionate Full-Stack Web Developer with a knack for creating dynamic and responsive web applications. Here's a little about me:
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Neeraj's+GitHub!;Full-Stack+Web+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</div>
 
-🔭 I’m currently working on **React Project**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Neeraj7911&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-🌱 I'm always learning and currently enhancing my skills in **Web development and Data Structures and Algorithm**
+<h1 align="center">Hi there, I'm Neeraj 👋</h1>
 
-💻 I enjoy working with technologies like React, Node.js, Express, MongoDB, and various others.
+<p align="center">
+  <a href="https://linkedin.com/in/neeraj791"><img src="https://img.shields.io/badge/-Neeraj-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/-youremail@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/kumarneeraj791"><img src="https://img.shields.io/badge/-@kumarneeraj791-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/neeraj791/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"/></a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kumarneeraj791) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neeraj791) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/neeraj791/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230C6B2A.svg?logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/neeraj791/)
+<h2 align="center">Passionate Full-Stack Developer | Creative Problem Solver | Tech Enthusiast</h2>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Neeraj7911&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Neeraj7911&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj7911&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 About Me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Neeraj7911&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🔭 I'm currently working on **an exciting React Project**
+- 🌱 I'm constantly learning and improving my skills in **Web Development and Data Structures & Algorithms**
+- 💡 I love to explore new technologies and leverage them to solve real-life problems
+- 🎯 Goal: To contribute to open source projects and make a positive impact in the tech community
+- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
----
-[![](https://visitcount.itsvg.in/api?id=Neeraj7911&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🛠️ My Favorite Tools
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 Programming Languages
+
+<p>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+</p>
+
+### 🧰 Frameworks and Libraries
+
+<p>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white"></a>
+    <a href="#"><img alt="Chart.js" src="https://img.shields.io/badge/Chart.js-FF6384.svg?logo=chart.js&logoColor=white"></a>
+</p>
+
+### 🗄️ Databases and Cloud Hosting
+
+<p>
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5.svg?logo=Firebase&logoColor=white"></a>
+</p>
+
+### 💻 Software and Tools
+
+<p>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
+</p>
+
+## 📊 Github Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neeraj7911&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj7911&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neeraj7911&theme=radical" alt="Neeraj7911" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Neeraj7911&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/Neeraj7911/Neeraj7911/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Neeraj7911/ProjectName1" title="ProjectName1"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj7911&repo=ProjectName1&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Neeraj7911/ProjectName2" title="ProjectName2"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj7911&repo=ProjectName2&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Neeraj7911/ProjectName3" title="ProjectName3"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj7911&repo=ProjectName3&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Neeraj7911/ProjectName4" title="ProjectName4"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj7911&repo=ProjectName4&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+
+<br><br><br><br><br><br>
+
+<h4 align="center">
+  <a href="https://github.com/Neeraj7911?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
