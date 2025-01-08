@@ -93,14 +93,23 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Neeraj7911/CryptoDecrypto" title="CryptoDecrypto"><img align="left" height="115" src="[https://github-readme-stats.vercel.app/api/pin/?username=Neeraj7911&repo=CryptoDecrypto](https://github.com/Neeraj7911/CryptoDecrypto?tab=readme-ov-file#cryptodecrypto)&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Neeraj7911/ai-trip-creator" title="Ai Trip Creator"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj7911&repo=ProjectName2&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Neeraj7911/CryptoDecrypto" title="CryptoDecrypto">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj7911&repo=CryptoDecrypto&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/Neeraj7911/ai-trip-creator" title="AI Trip Creator">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj7911&repo=ai-trip-creator&theme=react&border_color=61dafb&border_radius=10">
+  </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Neeraj7911/tictactoe-react-game" title="Tictactoe React game"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj7911&repo=ProjectName3&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Neeraj7911/Weather-updates" title="Weather Updates API Project"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj7911&repo=ProjectName4&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Neeraj7911/tictactoe-react-game" title="Tic Tac Toe React Game">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj7911&repo=tictactoe-react-game&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/Neeraj7911/weather-updates" title="Weather Updates API Project">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj7911&repo=weather-updates&theme=react&border_color=61dafb&border_radius=10">
+  </a>
 </div>
+
 
 <br><br><br><br><br><br>
 
