@@ -87,7 +87,10 @@
 </p>
 
 ## 🐍 Contribution Graph
-![snake gif](https://github.com/Neeraj7911/Neeraj7911/blob/output/github-contribution-grid-snake.gif)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Neeraj7911/Neeraj7911/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
