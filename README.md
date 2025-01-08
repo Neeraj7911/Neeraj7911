@@ -87,23 +87,18 @@
 </p>
 
 ## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Neeraj7911/Neeraj7911/main/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Neeraj7911/Neeraj7911/main/dist/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Neeraj7911/Neeraj7911/main/dist/github-contribution-grid-snake.svg">
-</picture>
+![Snake animation](https://raw.githubusercontent.com/Neeraj7911/Neeraj7911/main/dist/github-contribution-grid-snake.svg)
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Neeraj7911/ProjectName1" title="ProjectName1"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj7911&repo=ProjectName1&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Neeraj7911/ProjectName2" title="ProjectName2"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj7911&repo=ProjectName2&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Neeraj7911/CryptoDecrypto" title="CryptoDecrypto"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj7911&repo=ProjectName1&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Neeraj7911/ai-trip-creator" title="Ai Trip Creator"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj7911&repo=ProjectName2&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Neeraj7911/ProjectName3" title="ProjectName3"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj7911&repo=ProjectName3&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Neeraj7911/ProjectName4" title="ProjectName4"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj7911&repo=ProjectName4&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Neeraj7911/tictactoe-react-game" title="Tictactoe React game"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj7911&repo=ProjectName3&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Neeraj7911/Weather-updates" title="Weather Updates API Project"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj7911&repo=ProjectName4&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br><br><br><br><br><br>
