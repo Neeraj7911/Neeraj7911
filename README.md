@@ -9,10 +9,12 @@
 <h1 align="center">Hi there, I'm Neeraj 👋</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/neeraj791"><img src="https://img.shields.io/badge/-Neeraj-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/-youremail@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/neeraj791"><img src="https://img.shields.io/badge/-Neeraj-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kumarrneeraj791@gmail.com"><img src="https://img.shields.io/badge/-kumarrneeraj@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://instagram.com/kumarneeraj791"><img src="https://img.shields.io/badge/-@kumarneeraj791-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   <a href="https://leetcode.com/u/neeraj791/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/neeraj791/profile"><img src="https://img.shields.io/badge/-GeeksforGeeks-00C853?style=flat&logo=geeksforgeeks&logoColor=white"/></a>
+
 </p>
 
 <h2 align="center">Passionate Full-Stack Developer | Creative Problem Solver | Tech Enthusiast</h2>
@@ -27,7 +29,6 @@
 - 🌱 I'm constantly learning and improving my skills in **Web Development and Data Structures & Algorithms**
 - 💡 I love to explore new technologies and leverage them to solve real-life problems
 - 🎯 Goal: To contribute to open source projects and make a positive impact in the tech community
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
 ## 🛠️ My Favorite Tools
 
