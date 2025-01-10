@@ -78,13 +78,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neeraj7911&theme=radical" alt="Neeraj7911" />
+  <img src="https://streak-stats.demolab.com?user=Neeraj7911&theme=radical&hide_border=true" alt="Neeraj7911" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Neeraj7911&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Neeraj791&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ## 🐍 Contribution Graph
