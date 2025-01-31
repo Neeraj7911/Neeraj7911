@@ -87,9 +87,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Neeraj791&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
-## 🐍 Contribution Graph
+<!--//## 🐍 Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/Neeraj7911/Neeraj7911/main/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Neeraj7911/Neeraj7911/main/dist/github-contribution-grid-snake.svg)-->
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
