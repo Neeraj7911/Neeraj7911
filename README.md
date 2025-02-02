@@ -93,24 +93,36 @@
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
-<div width="100%" align="center"> 
-  <a align="left" href="https://github.com/Neeraj7911/storybook-store-project" title="storybook-store-project">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj7911&repo=storybook-store-project&theme=react&border_color=61dafb&border_radius=10&v=1">
-  </a>
-  <a align="left" href="https://github.com/Neeraj7911/CryptoDecrypto" title="CryptoDecrypto">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj7911&repo=CryptoDecrypto&theme=react&border_color=61dafb&border_radius=10&v=1">
-  </a>
-  <a align="right" href="https://github.com/Neeraj7911/ai-trip-creator" title="AI Trip Creator">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj7911&repo=ai-trip-creator&theme=react&border_color=61dafb&border_radius=10">
-  </a>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/Neeraj7911/storybook-store-project" title="storybook-store-project">
+          <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj7911&repo=storybook-store-project&theme=react&border_color=61dafb&border_radius=10">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Neeraj7911/CryptoDecrypto" title="CryptoDecrypto">
+          <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj7911&repo=CryptoDecrypto&theme=react&border_color=61dafb&border_radius=10">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Neeraj7911/ai-trip-creator" title="AI Trip Creator">
+          <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj7911&repo=ai-trip-creator&theme=react&border_color=61dafb&border_radius=10">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Neeraj7911/tictactoe-react-game" title="Tic Tac Toe React Game">
+          <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj7911&repo=tictactoe-react-game&theme=react&border_color=61dafb&border_radius=10">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Neeraj7911/tictactoe-react-game" title="Tic Tac Toe React Game">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj7911&repo=tictactoe-react-game&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  
-</div>
+
 
 
 <br><br><br><br><br><br>
