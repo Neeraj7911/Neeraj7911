@@ -93,7 +93,10 @@
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
-<div width="100%" align="center">
+<div width="100%" align="center"> 
+  <a align="left" href="https://github.com/Neeraj7911/storybook-store-project" title="storybook-store-project">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj7911&repo=storybook-store-project&theme=react&border_color=61dafb&border_radius=10&v=1">
+  </a>
   <a align="left" href="https://github.com/Neeraj7911/CryptoDecrypto" title="CryptoDecrypto">
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Neeraj7911&repo=CryptoDecrypto&theme=react&border_color=61dafb&border_radius=10&v=1">
   </a>
